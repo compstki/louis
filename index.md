@@ -11,8 +11,8 @@ System.out.println("Hello");
 <details>
 <summary>Hint</summary>
 
-``` java
+~~~ java
 System.out.println("Surprise");
-```
+~~~
 
 </details>
